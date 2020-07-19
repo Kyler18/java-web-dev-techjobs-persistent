@@ -1,8 +1,8 @@
 ## Part 1: Test it with SQL
-
-Select column_name as 'Column Name', data_type as 'Data Type'
-From information_schema.columns
-Where table_name = 'job'; 
+id=int
+employer=varchar
+name=varchar
+skill=varchar
 
 ## Part 2: Test it with SQL
 
